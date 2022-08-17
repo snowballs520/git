@@ -17,5 +17,6 @@ public class Demo {
         System.out.println("牛啊牛啊");
         System.out.println("特别扭啊牛啊");
         System.out.println("天上地下，唯我独尊");
+        System.out.println("迪迦打怪兽");
     }
 }
