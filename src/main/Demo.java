@@ -12,6 +12,10 @@ public class Demo {
         System.out.println("hello two");
         System.out.println("hello master");
         System.out.println("hello master_two");
+        
 
+        System.out.println("牛啊牛啊");
+        System.out.println("特别扭啊牛啊");
+        System.out.println("天上地下，唯我独尊");
     }
 }
